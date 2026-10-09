@@ -1,4 +1,8 @@
-> Warning: This module can NOT protect you from targeted attacks and forensics. You may need more security methods to deal with a complicated threat model.
+> [!WARNING]
+> This module can NOT protect you from targeted attacks and forensics. You may need more security methods to deal with a complicated threat model.
+
+> [!NOTE]
+> This is an automated repo for releases only. Code: https://github.com/leohearts/AlternativeUnlockXposed
 
 <p align="center">
 <image style="height:200px;display:inline" src="https://github.com/leohearts/AlternativeUnlockXposed/assets/24632029/c34ef40f-6968-418b-8a4a-62667708187b" height="200px" />
